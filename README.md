@@ -23,7 +23,7 @@ java -jar FlashcardQuiz.jar
 My purpose for writing this software was to learn the fundamentals of Kotlin
 and to build a base that I can later turn into an Android app.
 
-[Software Demo Video](https://youtu.be/your-video-id)
+[Software Demo Video](https://www.youtube.com/watch?v=2OOo0wdruq4)
 
 # Development Environment
 
